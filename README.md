@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Machine learning, Deep learning, Flutter, Figma Design**
 
-- 👯 I’m looking to collaborate on **Flutter Project**
+- 👯 I’m looking to collaborate on **Flutter, Machine learning, Deep learning, Figma Design Project**
 
 - 🤝 I’m looking for help with **Flutter development**
 
