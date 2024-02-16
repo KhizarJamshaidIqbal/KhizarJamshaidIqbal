@@ -21,6 +21,7 @@
 - 💬 Ask me about **Flutter development techniques and best practices, UI/UX design principles for Flutter apps, State management solutions in Flutter (e.g., Provider, Bloc, Redux), Integrating Firebase or other backend services with Flutter, Debugging and troubleshooting Flutter apps, Performance optimization tips for Flutter applications**
 
 - 📫 How to reach me **muhammadkhizar808@gmail.com**
+- ⚡ Fun fact: I'm a coder cum writer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
